@@ -3,7 +3,7 @@
 ![Logo](https://i.imgur.com/ZF3v4mk.png)
 
 # Quem Somos
-A Fractal é a empresa júnior de tecnologia fundada na **PUCPR** em 2022 com o intuito de aplicar na pratica os conhecimentos que são obtidos em sala de aula, assim contribuindo para a formação de profissionais capacitados e comprometidos. Somos uma empresa **sem  fins lucrativos**, em que todos os lucros são direcionados ao desenvolvimento acadêmico dos membros.
+A Fractal é a empresa júnior de tecnologia fundada na **PUCPR** em 2022 com o intuito de aplicar na pratica os conhecimentos que são obtidos em sala de aula, assim contribuindo para a formação de profissionais capacitados e comprometidos. Somos uma empresa **sem  fins lucrativos**, dessa forma, todo lucro que temos com o desenvolvimento de projetos é direcionado ao desenvolvimento acadêmico dos membros.
 
 ## Serviços 
 - Desenvolvimento Mobile
